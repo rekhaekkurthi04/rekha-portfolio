@@ -190,6 +190,7 @@ footer {
     section:not(.hero) {
         padding: 50px 7%;
     }
+<<<<<<< HEAD
     .project-image {
     width: 100%;
     max-width: 700px;
@@ -198,3 +199,6 @@ footer {
     margin: 20px auto;
     border-radius: 10px;
 }
+=======
+}
+>>>>>>> 466f8fd4b098525b205b8a4cb8fde6e2902c85ea
